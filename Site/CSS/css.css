@@ -11,6 +11,6 @@
         background-color:blue;
         text-align:right;
         position: relative;
-        left:90%;
+        left:auto;
     }
 }
