@@ -9,7 +9,7 @@
     }
     
     .headers{
-        position: absolute;
+        position: relative;
         left: 100px;
         top: 0px;
     }
