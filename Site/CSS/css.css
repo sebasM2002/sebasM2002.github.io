@@ -1,0 +1,10 @@
+@media (min-width: 992px){
+    .col-lg-4{
+        float:left;
+        border: 1px solid black;
+    }
+
+    .col-lg-4{
+        width:33%;
+    }
+}
