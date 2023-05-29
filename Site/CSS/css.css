@@ -9,7 +9,7 @@
     }
     .titles{
         background-color:blue;
-        float: right;
+        text-align:right;
         position: relative;
     }
 }
