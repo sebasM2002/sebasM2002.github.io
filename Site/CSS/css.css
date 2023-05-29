@@ -1,11 +1,15 @@
 @media (min-width: 992px){
     .col-lg-4, .titles{
         width: 33%;
-        float: left;
         border: 1px solid black;
     }
     
+    .col-lg-4{
+        float: left;
+    }
     .titles{
+        background-color:blue;
+        float: right;
         position: relative;
     }
 }
