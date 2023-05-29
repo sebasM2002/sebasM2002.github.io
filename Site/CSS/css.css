@@ -11,5 +11,6 @@
         background-color:blue;
         text-align:right;
         position: relative;
+        float: right;
     }
 }
