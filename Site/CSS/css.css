@@ -10,6 +10,7 @@
     .titles{
         background-color:blue;
         text-align:right;
-        float: right;
+        position: relative;
+        left:100%;
     }
 }
