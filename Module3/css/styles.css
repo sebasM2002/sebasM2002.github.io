@@ -1,0 +1,81 @@
+
+.navbar-header{
+    padding:3%;
+    clear:both;
+}
+body{
+    margin: 44px auto 0;
+    background-color:firebrick;
+    font-size:16px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    color:white;
+}
+
+.container-fluid h1.text-center{
+    margin-top:10%;
+    margin-bottom:6%;
+}
+.container-fluid .navbar-header .navbar-brand div {
+    color:black;
+    text-shadow:1px 1px 1px black;
+}
+.col-md-12{
+    background-color:grey;
+    margin-bottom:5%;
+}
+
+.col-md-12 div.text-center{
+    font-weight:bold;
+    font-size:1.5em;
+    padding-top:1%;
+    padding-bottom:2%;
+}
+
+.container-fluid .col-md-12  p{
+    padding-left:2%;
+    padding-right:2%;
+    padding-bottom:1%;
+    text-align:justify;
+}
+
+.navbar-brand div{
+    font-size:32px;
+}
+
+#header-nav{
+    background-color:grey;
+    border-radius:0;
+    border:0;
+}
+
+p{
+    color:black;
+}
+
+#nav-list {
+    margin-top: 16.2%;
+  }
+  #nav-list a {
+    color:black;
+    border:black;
+    border-style:solid;
+    text-align: center;
+    background-color:cornflowerblue;
+  }
+  #nav-list a:hover {
+    background: #E7E7E7;
+  }
+  #nav-list a span {
+    font-size: 1.8em;
+  }
+
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid cornflowerblue;
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
